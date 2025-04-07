@@ -1,0 +1,21 @@
+x = 15 + 3.2 * (a - 2) / 4.5
+
+y = x * (8.0 - 3) + b / 2
+
+result = (tmp  1 + tmp2) / 3.14 - (x - y)
+
+area = pi * r * r
+
+velocity = distance /        time
+
+force = mass * acceleration
+
+temperature = (celsius * 9.0) / 5 + 32
+
+x = y = z = 42.0
+
+invalidVar1 = 5 
+
+a == b  
+
+( ( ( 9 + 2 ) / 3.0 )     * 4.4 - 1.1 )  
