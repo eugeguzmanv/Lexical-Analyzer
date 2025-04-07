@@ -1,7 +1,5 @@
 #Project 1: programming a lexical analyzer 
-#Eugenio Guzman Vargas A01621084
-#Ilan 
-#Ximena 
+ 
 
 
 

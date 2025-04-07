@@ -18,4 +18,6 @@ invalidVar1 = 5
 
 a == b  
 
-( ( ( 9 + 2 ) / 3.0 )     * 4.4 - 1.1 )  
+((( 9 + 2 ) / 3.0 )     * 4.4 - 1.1 )  
+
+myVariable== myVariable * 4 + mySecondVariable
